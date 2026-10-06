@@ -3,3 +3,4 @@ venv/
 __pycache__/
 subscribers.json
 seen_jobs.json
+.pytest_cache/
